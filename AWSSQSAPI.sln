@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWSSQSAPI", "AWSSQSAPI\AWSSQSAPI.csproj", "{CA6C91F5-F618-4E01-8A95-4EC3AC45B08E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA6C91F5-F618-4E01-8A95-4EC3AC45B08E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA6C91F5-F618-4E01-8A95-4EC3AC45B08E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA6C91F5-F618-4E01-8A95-4EC3AC45B08E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA6C91F5-F618-4E01-8A95-4EC3AC45B08E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00370B0B-9C68-49D5-A2D8-45AF3846FFC4}
+	EndGlobalSection
+EndGlobal
